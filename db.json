@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Hello",
+      "content": "This is Me!"
+    },
+    {
+      "id": "2",
+      "title": "SUN",
+      "content": "Sunrise and Sunset"
+    },
+    {
+      "id": "3",
+      "title": "COLOR",
+      "content": "Black and White"
+    }
+  ]
+}
